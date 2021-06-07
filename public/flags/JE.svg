@@ -1,0 +1,20 @@
+<svg width="61" height="53" viewBox="0 0 61 53" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="0.530357" y="3.53036" width="57.9393" height="41.4393" rx="3.7125" fill="white" stroke="#F5F5F5" stroke-width="1.06071"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="3" width="59" height="43">
+<rect x="0.530357" y="3.53036" width="57.9393" height="41.4393" rx="3.7125" fill="white" stroke="white" stroke-width="1.06071"/>
+</mask>
+<g mask="url(#mask0)">
+<rect width="5.65105" height="104.243" transform="matrix(0.570329 -0.821417 0.816868 0.576824 -13.2993 -2.48846)" fill="#E3243B"/>
+<rect width="5.65105" height="104.243" transform="matrix(-0.570329 -0.821417 -0.816868 0.576825 75.0767 -2.48846)" fill="#E3243B"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M33.1681 8.66664H28.6415L28.8254 8.55784L26.7461 7.34694L29.4345 7.64967L29.0565 5.83331L30.9048 7.34694L32.7531 5.83331L32.3751 7.64967L35.0635 7.34694L32.9841 8.55784L33.1681 8.66664Z" fill="#FAEF32"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M26.6904 13.9791C26.6904 13.1896 26.6904 12.3088 26.6904 11.495C26.6904 9.93287 27.9568 8.66663 29.519 8.66663H32.2904C33.8526 8.66663 35.119 9.93287 35.119 11.495C35.119 12.3088 35.119 13.1896 35.119 13.9791C35.119 17.7738 30.9047 19.2916 30.9047 19.2916C30.9047 19.2916 26.6904 17.7738 26.6904 13.9791Z" fill="#E3243B"/>
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="26" y="8" width="10" height="12">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M26.6904 13.9791C26.6904 13.1896 26.6904 12.3088 26.6904 11.495C26.6904 9.93287 27.9568 8.66663 29.519 8.66663H32.2904C33.8526 8.66663 35.119 9.93287 35.119 11.495C35.119 12.3088 35.119 13.1896 35.119 13.9791C35.119 17.7738 30.9047 19.2916 30.9047 19.2916C30.9047 19.2916 26.6904 17.7738 26.6904 13.9791Z" fill="white"/>
+</mask>
+<g mask="url(#mask1)">
+<rect x="30.2024" y="17.1667" width="1.40476" height="1.41667" rx="0.70238" fill="#FAEF32"/>
+<rect x="28.0952" y="14.3333" width="5.61905" height="1.41667" rx="0.708333" fill="#FAEF32"/>
+<rect x="28.0952" y="11.4999" width="5.61905" height="1.41667" rx="0.708334" fill="#FAEF32"/>
+</g>
+</g>
+</svg>

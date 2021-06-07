@@ -1,0 +1,21 @@
+<svg width="61" height="53" viewBox="0 0 61 53" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="3" width="59" height="42.5" rx="4.24286" fill="white"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="1" y="3" width="59" height="43">
+<rect x="1" y="3" width="59" height="42.5" rx="4.24286" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1 11.5H60V3H1V11.5Z" fill="#486BCA"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1 45.4999H60V36.9999H1V45.4999Z" fill="#486BCA"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1 36.9999H60V11.4999H1V36.9999Z" fill="#FFDF20"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1 34.1666H60V14.3333H1V34.1666Z" fill="#CF1615"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.5 31.3334C37.4825 31.3334 43.1429 24.2501 43.1429 24.2501C43.1429 24.2501 37.4825 17.1667 30.5 17.1667C23.5176 17.1667 17.8572 24.2501 17.8572 24.2501C17.8572 24.2501 23.5176 31.3334 30.5 31.3334Z" fill="white"/>
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="17" y="17" width="27" height="15">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M30.5 31.3334C37.4825 31.3334 43.1429 24.2501 43.1429 24.2501C43.1429 24.2501 37.4825 17.1667 30.5 17.1667C23.5176 17.1667 17.8572 24.2501 17.8572 24.2501C17.8572 24.2501 23.5176 31.3334 30.5 31.3334Z" fill="white"/>
+</mask>
+<g mask="url(#mask1)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M31.9048 17.1667H17.8572V31.3334H29.0953L31.9048 17.1667Z" fill="#262626"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M33.3095 25.6667C34.0854 25.6667 34.7143 25.0324 34.7143 24.25C34.7143 23.4676 34.0854 22.8334 33.3095 22.8334C32.5337 22.8334 31.9048 23.4676 31.9048 24.25C31.9048 25.0324 32.5337 25.6667 33.3095 25.6667Z" fill="#1A1A1A"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M27.6904 25.6667C28.4662 25.6667 29.0952 25.0324 29.0952 24.25C29.0952 23.4676 28.4662 22.8334 27.6904 22.8334C26.9146 22.8334 26.2856 23.4676 26.2856 24.25C26.2856 25.0324 26.9146 25.6667 27.6904 25.6667Z" fill="#F6F6F6"/>
+</g>
+</g>
+</svg>

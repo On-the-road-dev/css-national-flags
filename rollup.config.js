@@ -6,8 +6,8 @@ export default {
   plugins: [
     peerDepsExternal(),
     postcss({
-      minimize: true,
-      modules: true,
+      minimize: false,
+      modules: false,
       use: {
         sass: null,
         stylus: null,
