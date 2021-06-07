@@ -1,13 +1,1 @@
-<svg width="61" height="53" viewBox="0 0 61 53" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="1.53036" y="3.53036" width="57.9393" height="41.4393" rx="3.7125" fill="white" stroke="#F5F5F5" stroke-width="1.06071"/>
-<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="1" y="3" width="59" height="43">
-<rect x="1.53036" y="3.53036" width="57.9393" height="41.4393" rx="3.7125" fill="white" stroke="white" stroke-width="1.06071"/>
-</mask>
-<g mask="url(#mask0)">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M1 14.3333H60V3H1V14.3333Z" fill="#083D96"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M1 34.1667H60V22.8333H1V34.1667Z" fill="#37AE39"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M1 45.5H60V34.1667H1V45.5Z" fill="#FFD13F"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M23.4761 45.5H37.5237V3H23.4761V45.5Z" fill="#E42346"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M10.8334 10.3242L8.35633 12.105L9.2703 9.17885L6.8254 7.35333L9.86736 7.32571L10.8334 4.41666L11.7995 7.32571L14.8414 7.35333L12.3966 9.17885L13.3105 12.105L10.8334 10.3242Z" fill="#FFD03B"/>
-</g>
-</svg>
+<svg fill="none" height="53" viewBox="0 0 61 53" width="61" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><mask id="a" height="43" maskUnits="userSpaceOnUse" width="59" x="1" y="3"><rect fill="#fff" height="41.4393" rx="3.7125" stroke="#fff" stroke-width="1.06071" width="57.9393" x="1.53036" y="3.53036"/></mask><rect fill="#fff" height="41.4393" rx="3.7125" stroke="#f5f5f5" stroke-width="1.06071" width="57.9393" x="1.53036" y="3.53036"/><g clip-rule="evenodd" fill-rule="evenodd" mask="url(#a)"><path d="m1 14.3333h59v-11.3333h-59z" fill="#083d96"/><path d="m1 34.1667h59v-11.3334h-59z" fill="#37ae39"/><path d="m1 45.5h59v-11.3333h-59z" fill="#ffd13f"/><path d="m23.4761 45.5h14.0476v-42.5h-14.0476z" fill="#e42346"/><path d="m10.8334 10.3242-2.47707 1.7808.91397-2.92615-2.4449-1.82552 3.04196-.02762.96604-2.90905.9661 2.90905 3.0419.02762-2.4448 1.82552.9139 2.92615z" fill="#ffd03b"/></g></svg>

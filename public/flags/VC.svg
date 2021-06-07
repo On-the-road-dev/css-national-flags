@@ -1,12 +1,1 @@
-<svg width="61" height="53" viewBox="0 0 61 53" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="1" y="3" width="59" height="42.5" rx="4.24286" fill="white"/>
-<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="1" y="3" width="59" height="43">
-<rect x="1" y="3" width="59" height="42.5" rx="4.24286" fill="white"/>
-</mask>
-<g mask="url(#mask0)">
-<rect x="29.0952" y="3" width="30.9048" height="42.5" fill="#08C47A"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M1 45.5H20.6667V3H1V45.5Z" fill="#0C87E1"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M17.8572 45.5H43.1429V3H17.8572V45.5Z" fill="#FECB2F"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M20.6667 20L24.881 11.5L29.0953 20L24.881 28.5L20.6667 20ZM31.9049 20L36.1191 11.5L40.3334 20L36.1191 28.5L31.9049 20ZM30.5001 22.8333L26.2858 31.3333L30.5001 39.8333L34.7144 31.3333L30.5001 22.8333Z" fill="#08C47A"/>
-</g>
-</svg>
+<svg fill="none" height="53" viewBox="0 0 61 53" width="61" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><mask id="a" height="43" maskUnits="userSpaceOnUse" width="59" x="1" y="3"><rect fill="#fff" height="42.5" rx="4.24286" width="59" x="1" y="3"/></mask><rect fill="#fff" height="42.5" rx="4.24286" width="59" x="1" y="3"/><g mask="url(#a)"><path d="m29.0952 3h30.9048v42.5h-30.9048z" fill="#08c47a"/><g clip-rule="evenodd" fill-rule="evenodd"><path d="m1 45.5h19.6667v-42.5h-19.6667z" fill="#0c87e1"/><path d="m17.8572 45.5h25.2857v-42.5h-25.2857z" fill="#fecb2f"/><path d="m20.6667 20 4.2143-8.5 4.2143 8.5-4.2143 8.5zm11.2382 0 4.2142-8.5 4.2143 8.5-4.2143 8.5zm-1.4048 2.8333-4.2143 8.5 4.2143 8.5 4.2143-8.5z" fill="#08c47a"/></g></g></svg>

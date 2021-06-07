@@ -1,12 +1,1 @@
-<svg width="61" height="53" viewBox="0 0 61 53" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="1" y="3" width="59" height="42.5" rx="4.24286" fill="white"/>
-<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="1" y="3" width="59" height="43">
-<rect x="1" y="3" width="59" height="42.5" rx="4.24286" fill="white"/>
-</mask>
-<g mask="url(#mask0)">
-<rect x="1" y="3" width="59" height="42.5" fill="#FF323E"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M1 3L37.5238 24.25L1 45.5V3Z" fill="#FFCC51"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M1 3L26.2857 24.25L1 45.5V3Z" fill="#262626"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M13.5248 26.0018L11.6615 30.1221L10.6884 25.7012L6.22687 25.1873L10.0954 22.8878L9.20134 18.4499L12.5653 21.4497L16.4743 19.2208L14.6848 23.3743L17.9947 26.4346L13.5248 26.0018V26.0018Z" fill="white"/>
-</g>
-</svg>
+<svg fill="none" height="53" viewBox="0 0 61 53" width="61" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><mask id="a" height="43" maskUnits="userSpaceOnUse" width="59" x="1" y="3"><rect fill="#fff" height="42.5" rx="4.24286" width="59" x="1" y="3"/></mask><rect fill="#fff" height="42.5" rx="4.24286" width="59" x="1" y="3"/><g mask="url(#a)"><path d="m1 3h59v42.5h-59z" fill="#ff323e"/><g clip-rule="evenodd" fill-rule="evenodd"><path d="m1 3 36.5238 21.25-36.5238 21.25z" fill="#ffcc51"/><path d="m1 3 25.2857 21.25-25.2857 21.25z" fill="#262626"/><path d="m13.5248 26.0018-1.8633 4.1203-.9731-4.4209-4.46153-.5139 3.86853-2.2995-.89406-4.4379 3.36396 2.9998 3.909-2.2289-1.7895 4.1535 3.3099 3.0603z" fill="#fff"/></g></g></svg>

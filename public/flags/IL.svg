@@ -1,12 +1,1 @@
-<svg width="61" height="53" viewBox="0 0 61 53" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="1.53036" y="3.53036" width="57.9393" height="41.4393" rx="3.7125" fill="white" stroke="#F5F5F5" stroke-width="1.06071"/>
-<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="1" y="3" width="59" height="43">
-<rect x="1.53036" y="3.53036" width="57.9393" height="41.4393" rx="3.7125" fill="white" stroke="white" stroke-width="1.06071"/>
-</mask>
-<g mask="url(#mask0)">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M1 11.5H60V3H1V11.5Z" fill="#0E46D4"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M1 45.5H60V37H1V45.5Z" fill="#0E46D4"/>
-<path d="M22.8597 28.1578L22.2804 29.2094L23.4733 29.2094L37.5209 29.2094L38.7215 29.2094L38.1403 28.1543L31.1165 15.4043L30.5009 14.287L29.8835 15.4078L22.8597 28.1578Z" stroke="#093EC5" stroke-width="1.41429"/>
-<path d="M22.8597 20.3422L22.2804 19.2907L23.4733 19.2907L37.5209 19.2907L38.7215 19.2907L38.1403 20.3457L31.1165 33.0957L30.5009 34.2131L29.8835 33.0922L22.8597 20.3422Z" stroke="#093EC5" stroke-width="1.41429"/>
-</g>
-</svg>
+<svg fill="none" height="53" viewBox="0 0 61 53" width="61" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><mask id="a" height="43" maskUnits="userSpaceOnUse" width="59" x="1" y="3"><rect fill="#fff" height="41.4393" rx="3.7125" stroke="#fff" stroke-width="1.06071" width="57.9393" x="1.53036" y="3.53036"/></mask><rect fill="#fff" height="41.4393" rx="3.7125" stroke="#f5f5f5" stroke-width="1.06071" width="57.9393" x="1.53036" y="3.53036"/><g mask="url(#a)"><path clip-rule="evenodd" d="m1 11.5h59v-8.5h-59z" fill="#0e46d4" fill-rule="evenodd"/><path clip-rule="evenodd" d="m1 45.5h59v-8.5h-59z" fill="#0e46d4" fill-rule="evenodd"/><g stroke="#093ec5" stroke-width="1.41429"><path d="m22.8597 28.1578-.5793 1.0516h1.1929 14.0476 1.2006l-.5812-1.0551-7.0238-12.75-.6156-1.1173-.6174 1.1208z"/><path d="m22.8597 20.3422-.5793-1.0515h1.1929 14.0476 1.2006l-.5812 1.055-7.0238 12.75-.6156 1.1174-.6174-1.1209z"/></g></g></svg>

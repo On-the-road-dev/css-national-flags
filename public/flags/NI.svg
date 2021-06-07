@@ -1,12 +1,1 @@
-<svg width="61" height="53" viewBox="0 0 61 53" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="1.53036" y="3.53036" width="57.9393" height="41.4393" rx="3.7125" fill="white" stroke="#F5F5F5" stroke-width="1.06071"/>
-<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="1" y="3" width="59" height="43">
-<rect x="1.53036" y="3.53036" width="57.9393" height="41.4393" rx="3.7125" fill="white" stroke="white" stroke-width="1.06071"/>
-</mask>
-<g mask="url(#mask0)">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M1 17.1667H60V3H1V17.1667Z" fill="#1A78D6"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M1 45.5H60V31.3333H1V45.5Z" fill="#1A78D6"/>
-<path d="M30.4999 29.2071C33.2236 29.2071 35.4214 26.9821 35.4214 24.25C35.4214 21.5179 33.2236 19.2929 30.4999 19.2929C27.7763 19.2929 25.5785 21.5179 25.5785 24.25C25.5785 26.9821 27.7763 29.2071 30.4999 29.2071Z" stroke="#DBCD92" stroke-width="1.41429"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M30.5 21.4166L33.3095 27.0833H27.6904L30.5 21.4166Z" fill="#9CDDEE"/>
-</g>
-</svg>
+<svg fill="none" height="53" viewBox="0 0 61 53" width="61" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><mask id="a" height="43" maskUnits="userSpaceOnUse" width="59" x="1" y="3"><rect fill="#fff" height="41.4393" rx="3.7125" stroke="#fff" stroke-width="1.06071" width="57.9393" x="1.53036" y="3.53036"/></mask><rect fill="#fff" height="41.4393" rx="3.7125" stroke="#f5f5f5" stroke-width="1.06071" width="57.9393" x="1.53036" y="3.53036"/><g mask="url(#a)"><path clip-rule="evenodd" d="m1 17.1667h59v-14.1667h-59z" fill="#1a78d6" fill-rule="evenodd"/><path clip-rule="evenodd" d="m1 45.5h59v-14.1667h-59z" fill="#1a78d6" fill-rule="evenodd"/><path d="m30.4999 29.2071c2.7237 0 4.9215-2.225 4.9215-4.9571s-2.1978-4.9571-4.9215-4.9571c-2.7236 0-4.9214 2.225-4.9214 4.9571s2.1978 4.9571 4.9214 4.9571z" stroke="#dbcd92" stroke-width="1.41429"/><path clip-rule="evenodd" d="m30.5 21.4166 2.8095 5.6667h-5.6191z" fill="#9cddee" fill-rule="evenodd"/></g></svg>

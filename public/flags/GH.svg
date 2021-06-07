@@ -1,12 +1,1 @@
-<svg width="61" height="53" viewBox="0 0 61 53" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="1" y="3" width="59" height="42.5" rx="4.24286" fill="white"/>
-<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="1" y="3" width="59" height="43">
-<rect x="1" y="3" width="59" height="42.5" rx="4.24286" fill="white"/>
-</mask>
-<g mask="url(#mask0)">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M1 17.1667H60V3H1V17.1667Z" fill="#E71F37"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M1 45.5H60V31.3333H1V45.5Z" fill="#118B56"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M1 31.3333H60V17.1667H1V31.3333Z" fill="#FDD64C"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M30.4999 27.6749L26.3714 30.6889L27.938 25.7978L23.8198 22.7695L28.9166 22.7606L30.4999 17.875L32.0832 22.7606L37.1799 22.7695L33.0617 25.7978L34.6284 30.6889L30.4999 27.6749Z" fill="#262626"/>
-</g>
-</svg>
+<svg fill="none" height="53" viewBox="0 0 61 53" width="61" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><mask id="a" height="43" maskUnits="userSpaceOnUse" width="59" x="1" y="3"><rect fill="#fff" height="42.5" rx="4.24286" width="59" x="1" y="3"/></mask><rect fill="#fff" height="42.5" rx="4.24286" width="59" x="1" y="3"/><g clip-rule="evenodd" fill-rule="evenodd" mask="url(#a)"><path d="m1 17.1667h59v-14.1667h-59z" fill="#e71f37"/><path d="m1 45.5h59v-14.1667h-59z" fill="#118b56"/><path d="m1 31.3333h59v-14.1666h-59z" fill="#fdd64c"/><path d="m30.4999 27.6749-4.1285 3.014 1.5666-4.8911-4.1182-3.0283 5.0968-.0089 1.5833-4.8856 1.5833 4.8856 5.0967.0089-4.1182 3.0283 1.5667 4.8911z" fill="#262626"/></g></svg>

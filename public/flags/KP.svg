@@ -1,13 +1,1 @@
-<svg width="61" height="53" viewBox="0 0 61 53" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="1" y="3" width="59" height="42.5" rx="4.24286" fill="white"/>
-<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="1" y="3" width="59" height="43">
-<rect x="1" y="3" width="59" height="42.5" rx="4.24286" fill="white"/>
-</mask>
-<g mask="url(#mask0)">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M1 11.5H60V3H1V11.5Z" fill="#1461B6"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M1 45.5H60V37H1V45.5Z" fill="#1461B6"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M1 37H60V11.5H1V37Z" fill="white"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M1 34.1666H60V14.3333H1V34.1666Z" fill="#F53846"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M29.0952 24.25C29.0952 28.162 25.9506 31.3334 22.0714 31.3334C18.1923 31.3334 15.0476 28.162 15.0476 24.25C15.0476 20.338 18.1923 17.1667 22.0714 17.1667L20.4148 21.9505L15.3914 22.0612L19.3909 25.1284L17.9429 29.9806L22.0714 27.0924L26.1999 29.9806L24.7519 25.1284L28.7515 22.0612L23.7281 21.9505L22.0714 17.1667C25.9506 17.1667 29.0952 20.338 29.0952 24.25Z" fill="white"/>
-</g>
-</svg>
+<svg fill="none" height="53" viewBox="0 0 61 53" width="61" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><mask id="a" height="43" maskUnits="userSpaceOnUse" width="59" x="1" y="3"><rect fill="#fff" height="42.5" rx="4.24286" width="59" x="1" y="3"/></mask><rect fill="#fff" height="42.5" rx="4.24286" width="59" x="1" y="3"/><g clip-rule="evenodd" fill-rule="evenodd" mask="url(#a)"><path d="m1 11.5h59v-8.5h-59z" fill="#1461b6"/><path d="m1 45.5h59v-8.5h-59z" fill="#1461b6"/><path d="m1 37h59v-25.5h-59z" fill="#fff"/><path d="m1 34.1666h59v-19.8333h-59z" fill="#f53846"/><path d="m29.0952 24.25c0 3.912-3.1446 7.0834-7.0238 7.0834-3.8791 0-7.0238-3.1714-7.0238-7.0834s3.1447-7.0833 7.0238-7.0833l-1.6566 4.7838-5.0234.1107 3.9995 3.0672-1.448 4.8522 4.1285-2.8882 4.1285 2.8882-1.448-4.8522 3.9996-3.0672-5.0234-.1107-1.6567-4.7838c3.8792 0 7.0238 3.1713 7.0238 7.0833z" fill="#fff"/></g></svg>

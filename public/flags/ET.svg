@@ -1,13 +1,1 @@
-<svg width="61" height="53" viewBox="0 0 61 53" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="1" y="3" width="59" height="42.5" rx="4.24286" fill="white"/>
-<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="1" y="3" width="59" height="43">
-<rect x="1" y="3" width="59" height="42.5" rx="4.24286" fill="white"/>
-</mask>
-<g mask="url(#mask0)">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M1 17.1667H60V3H1V17.1667Z" fill="#20AA46"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M1 45.5H60V31.3333H1V45.5Z" fill="#E92F3B"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M1 31.3333H60V17.1667H1V31.3333Z" fill="#FADF50"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M30.5001 34.1667C35.9309 34.1667 40.3334 29.7268 40.3334 24.25C40.3334 18.7732 35.9309 14.3333 30.5001 14.3333C25.0693 14.3333 20.6667 18.7732 20.6667 24.25C20.6667 29.7268 25.0693 34.1667 30.5001 34.1667Z" fill="#205CCA"/>
-<path d="M30.9129 26.4383L30.5001 26.1416L30.0874 26.4383L27.6778 28.1706L28.5699 25.3145L28.7192 24.8366L28.318 24.537L25.9236 22.7492L28.8964 22.7222L29.4018 22.7176L29.5611 22.2379L30.5001 19.4104L31.4391 22.2379L31.5984 22.7176L32.1038 22.7222L35.0767 22.7492L32.6823 24.537L32.2811 24.8366L32.4304 25.3145L33.3225 28.1706L30.9129 26.4383Z" stroke="#FFDB3D" stroke-width="1.41429"/>
-</g>
-</svg>
+<svg fill="none" height="53" viewBox="0 0 61 53" width="61" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><mask id="a" height="43" maskUnits="userSpaceOnUse" width="59" x="1" y="3"><rect fill="#fff" height="42.5" rx="4.24286" width="59" x="1" y="3"/></mask><rect fill="#fff" height="42.5" rx="4.24286" width="59" x="1" y="3"/><g mask="url(#a)"><g clip-rule="evenodd" fill-rule="evenodd"><path d="m1 17.1667h59v-14.1667h-59z" fill="#20aa46"/><path d="m1 45.5h59v-14.1667h-59z" fill="#e92f3b"/><path d="m1 31.3333h59v-14.1666h-59z" fill="#fadf50"/><path d="m30.5001 34.1667c5.4308 0 9.8333-4.4399 9.8333-9.9167s-4.4025-9.9167-9.8333-9.9167-9.8334 4.4399-9.8334 9.9167 4.4026 9.9167 9.8334 9.9167z" fill="#205cca"/></g><path d="m30.9129 26.4383-.4128-.2967-.4127.2967-2.4096 1.7323.8921-2.8561.1493-.4779-.4012-.2996-2.3944-1.7878 2.9728-.027.5054-.0046.1593-.4797.939-2.8275.939 2.8275.1593.4797.5054.0046 2.9729.027-2.3944 1.7878-.4012.2996.1493.4779.8921 2.8561z" stroke="#ffdb3d" stroke-width="1.41429"/></g></svg>

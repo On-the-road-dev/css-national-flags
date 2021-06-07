@@ -1,11 +1,1 @@
-<svg width="61" height="53" viewBox="0 0 61 53" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="1.53036" y="3.53036" width="57.9393" height="41.4393" rx="3.7125" fill="white" stroke="#F5F5F5" stroke-width="1.06071"/>
-<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="1" y="3" width="59" height="43">
-<rect x="1.53036" y="3.53036" width="57.9393" height="41.4393" rx="3.7125" fill="white" stroke="white" stroke-width="1.06071"/>
-</mask>
-<g mask="url(#mask0)">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M60 3H29.0952V8.66667H60V3ZM60 14.3333H29.0952V20H60V14.3333ZM29.0952 25.6667H60V31.3334H29.0952V25.6667ZM60 37H1V42.6667H60V37Z" fill="#E1244A"/>
-<rect x="1" y="3" width="28.0952" height="28.3333" fill="#0C3F8E"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M15.0477 20.4816L10.0935 24.0433L11.9215 18.191L7.03166 14.54L13.1156 14.4847L15.0477 8.66663L16.9798 14.4847L23.0638 14.54L18.174 18.191L20.0019 24.0433L15.0477 20.4816Z" fill="white"/>
-</g>
-</svg>
+<svg fill="none" height="53" viewBox="0 0 61 53" width="61" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><mask id="a" height="43" maskUnits="userSpaceOnUse" width="59" x="1" y="3"><rect fill="#fff" height="41.4393" rx="3.7125" stroke="#fff" stroke-width="1.06071" width="57.9393" x="1.53036" y="3.53036"/></mask><rect fill="#fff" height="41.4393" rx="3.7125" stroke="#f5f5f5" stroke-width="1.06071" width="57.9393" x="1.53036" y="3.53036"/><g mask="url(#a)"><path clip-rule="evenodd" d="m60 3h-30.9048v5.66667h30.9048zm0 11.3333h-30.9048v5.6667h30.9048zm-30.9048 11.3334h30.9048v5.6667h-30.9048zm30.9048 11.3333h-59v5.6667h59z" fill="#e1244a" fill-rule="evenodd"/><path d="m1 3h28.0952v28.3333h-28.0952z" fill="#0c3f8e"/><path clip-rule="evenodd" d="m15.0477 20.4816-4.9542 3.5617 1.828-5.8523-4.88984-3.651 6.08394-.0553 1.9321-5.81807 1.9321 5.81807 6.084.0553-4.8898 3.651 1.8279 5.8523z" fill="#fff" fill-rule="evenodd"/></g></svg>

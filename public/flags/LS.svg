@@ -1,12 +1,1 @@
-<svg width="61" height="53" viewBox="0 0 61 53" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="1.53036" y="3.53036" width="57.9393" height="41.4393" rx="3.7125" fill="white" stroke="#F5F5F5" stroke-width="1.06071"/>
-<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="1" y="3" width="59" height="43">
-<rect x="1.53036" y="3.53036" width="57.9393" height="41.4393" rx="3.7125" fill="white" stroke="white" stroke-width="1.06071"/>
-</mask>
-<g mask="url(#mask0)">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M1 17.1667H60V3H1V17.1667Z" fill="#0C33B8"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M1 45.5H60V31.3333H1V45.5Z" fill="#1DB158"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M29.0952 24.25L29.1571 24.0627C29.5848 22.7687 31.4151 22.7687 31.8428 24.0627L31.9047 24.25L34.3972 28.0204C34.5819 28.2998 34.5412 28.6669 34.2641 28.855C33.646 29.2747 32.3913 29.9167 30.5 29.9167C28.6086 29.9167 27.3539 29.2747 26.7358 28.855C26.4587 28.6669 26.418 28.2998 26.6027 28.0204L29.0952 24.25Z" fill="#262626"/>
-<path d="M32.6023 21.4166C32.6023 22.5965 31.6555 23.5428 30.5 23.5428C29.3445 23.5428 28.3976 22.5965 28.3976 21.4166C28.3976 20.2367 29.3445 19.2905 30.5 19.2905C31.6555 19.2905 32.6023 20.2367 32.6023 21.4166Z" stroke="#262626" stroke-width="1.41429"/>
-</g>
-</svg>
+<svg fill="none" height="53" viewBox="0 0 61 53" width="61" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><mask id="a" height="43" maskUnits="userSpaceOnUse" width="59" x="1" y="3"><rect fill="#fff" height="41.4393" rx="3.7125" stroke="#fff" stroke-width="1.06071" width="57.9393" x="1.53036" y="3.53036"/></mask><rect fill="#fff" height="41.4393" rx="3.7125" stroke="#f5f5f5" stroke-width="1.06071" width="57.9393" x="1.53036" y="3.53036"/><g mask="url(#a)"><g clip-rule="evenodd" fill-rule="evenodd"><path d="m1 17.1667h59v-14.1667h-59z" fill="#0c33b8"/><path d="m1 45.5h59v-14.1667h-59z" fill="#1db158"/><path d="m29.0952 24.25.0619-.1873c.4277-1.294 2.258-1.294 2.6857 0l.0619.1873 2.4925 3.7704c.1847.2794.144.6465-.1331.8346-.6181.4197-1.8728 1.0617-3.7641 1.0617-1.8914 0-3.1461-.642-3.7642-1.0617-.2771-.1881-.3178-.5552-.1331-.8346z" fill="#262626"/></g><path d="m32.6023 21.4166c0 1.1799-.9468 2.1262-2.1023 2.1262s-2.1024-.9463-2.1024-2.1262.9469-2.1261 2.1024-2.1261 2.1023.9462 2.1023 2.1261z" stroke="#262626" stroke-width="1.41429"/></g></svg>

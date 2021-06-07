@@ -1,12 +1,1 @@
-<svg width="61" height="53" viewBox="0 0 61 53" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="1" y="3" width="59" height="42.5" rx="4.24286" fill="white"/>
-<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="1" y="3" width="59" height="43">
-<rect x="1" y="3" width="59" height="42.5" rx="4.24286" fill="white"/>
-</mask>
-<g mask="url(#mask0)">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M1 14.3333H60V3H1V14.3333Z" fill="#0F3EB6"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M1 45.5H60V34.1666H1V45.5Z" fill="#0F3EB6"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M1 34.1666H60V14.3333H1V34.1666Z" fill="#ED1A3C"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M26.2858 21.5453H29.0953V19.9881C29.0953 19.2122 29.7242 18.5833 30.5 18.5833C31.2759 18.5833 31.9048 19.2122 31.9048 19.9881V21.5453H34.7143V24.25H26.2858V21.5453ZM37.5239 20C36.7481 20 36.1191 20.6289 36.1191 21.4047V24.25H38.9286V21.4047C38.9286 20.6289 38.2997 20 37.5239 20ZM24.881 25.6667H22.0715L19.262 31.3333H24.881V25.6667ZM26.2858 25.6667V31.3333H34.7143V25.6667H26.2858ZM36.1191 31.3333V25.6667H38.9286L41.7382 31.3333H36.1191ZM23.4762 20C22.7004 20 22.0715 20.6289 22.0715 21.4047V24.25H24.881V21.4047C24.881 20.6289 24.252 20 23.4762 20Z" fill="white"/>
-</g>
-</svg>
+<svg fill="none" height="53" viewBox="0 0 61 53" width="61" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><mask id="a" height="43" maskUnits="userSpaceOnUse" width="59" x="1" y="3"><rect fill="#fff" height="42.5" rx="4.24286" width="59" x="1" y="3"/></mask><rect fill="#fff" height="42.5" rx="4.24286" width="59" x="1" y="3"/><g clip-rule="evenodd" fill-rule="evenodd" mask="url(#a)"><path d="m1 14.3333h59v-11.3333h-59z" fill="#0f3eb6"/><path d="m1 45.5h59v-11.3334h-59z" fill="#0f3eb6"/><path d="m1 34.1666h59v-19.8333h-59z" fill="#ed1a3c"/><path d="m26.2858 21.5453h2.8095v-1.5572c0-.7759.6289-1.4048 1.4047-1.4048.7759 0 1.4048.6289 1.4048 1.4048v1.5572h2.8095v2.7047h-8.4285zm11.2381-1.5453c-.7758 0-1.4048.6289-1.4048 1.4047v2.8453h2.8095v-2.8453c0-.7758-.6289-1.4047-1.4047-1.4047zm-12.6429 5.6667h-2.8095l-2.8095 5.6666h5.619zm1.4048 0v5.6666h8.4285v-5.6666zm9.8333 5.6666v-5.6666h2.8095l2.8096 5.6666zm-12.6429-11.3333c-.7758 0-1.4047.6289-1.4047 1.4047v2.8453h2.8095v-2.8453c0-.7758-.629-1.4047-1.4048-1.4047z" fill="#fff"/></g></svg>

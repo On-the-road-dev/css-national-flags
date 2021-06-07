@@ -1,12 +1,1 @@
-<svg width="61" height="53" viewBox="0 0 61 53" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="1.53036" y="3.53036" width="57.9393" height="41.4393" rx="3.7125" fill="white" stroke="#F5F5F5" stroke-width="1.06071"/>
-<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="1" y="3" width="59" height="43">
-<rect x="1.53036" y="3.53036" width="57.9393" height="41.4393" rx="3.7125" fill="white" stroke="white" stroke-width="1.06071"/>
-</mask>
-<g mask="url(#mask0)">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M1 45.5H60V31.3333H1V45.5Z" fill="#EC3938"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M1 17.1667H60V3H1V17.1667Z" fill="#51B422"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M29.6715 27.8946C29.7344 27.8285 29.7698 27.7408 29.7703 27.6496L29.794 23.4556C29.796 23.1125 29.5184 22.8333 29.1753 22.8333V22.8333C28.6253 22.8333 28.3487 22.1695 28.736 21.7789L29.9978 20.5064C30.2745 20.2274 30.7255 20.2274 31.0021 20.5064L32.2622 21.7772C32.6501 22.1684 32.373 22.8333 31.8221 22.8333V22.8333C31.4798 22.8333 31.2023 23.1108 31.2023 23.4531V27.6456C31.2023 27.7392 31.2393 27.8289 31.3052 27.8954V27.8954C31.5272 28.1193 31.3686 28.5 31.0533 28.5H29.931C29.616 28.5 29.4543 28.1228 29.6715 27.8946V27.8946Z" fill="#159940"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M1 3L20.6667 24.25L1 45.5V3Z" fill="#258DE7"/>
-</g>
-</svg>
+<svg fill="none" height="53" viewBox="0 0 61 53" width="61" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><mask id="a" height="43" maskUnits="userSpaceOnUse" width="59" x="1" y="3"><rect fill="#fff" height="41.4393" rx="3.7125" stroke="#fff" stroke-width="1.06071" width="57.9393" x="1.53036" y="3.53036"/></mask><rect fill="#fff" height="41.4393" rx="3.7125" stroke="#f5f5f5" stroke-width="1.06071" width="57.9393" x="1.53036" y="3.53036"/><g clip-rule="evenodd" fill-rule="evenodd" mask="url(#a)"><path d="m1 45.5h59v-14.1667h-59z" fill="#ec3938"/><path d="m1 17.1667h59v-14.1667h-59z" fill="#51b422"/><path d="m29.6715 27.8946c.0629-.0661.0983-.1538.0988-.245l.0237-4.194c.002-.3431-.2756-.6223-.6187-.6223-.55 0-.8266-.6638-.4393-1.0544l1.2618-1.2725c.2767-.279.7277-.279 1.0043 0l1.2601 1.2708c.3879.3912.1108 1.0561-.4401 1.0561-.3423 0-.6198.2775-.6198.6198v4.1925c0 .0936.037.1833.1029.2498.222.2239.0634.6046-.2519.6046h-1.1223c-.315 0-.4767-.3772-.2595-.6054z" fill="#159940"/><path d="m1 3 19.6667 21.25-19.6667 21.25z" fill="#258de7"/></g></svg>
