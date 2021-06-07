@@ -1,0 +1,29 @@
+{
+  "name": "css-national-flags",
+  "version": "1.0.0",
+  "description": "Css library from national flags",
+  "main": "build/national-flags.css",
+  "scripts": {
+    "build": "rollup --config rollup.config.js"
+  },
+  "keywords": [
+    "css",
+    "less",
+    "national",
+    "flags",
+    "library"
+  ],
+  "files": [
+    "css"
+  ],
+  "author": "Riccardo canella <@thecreazy>",
+  "license": "ISC",
+  "devDependencies": {
+    "less": "^4.1.1",
+    "rollup": "^2.51.0",
+    "postcss": "^8.3.0",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "rollup-plugin-postcss": "^4.0.0"
+  },
+  "dependencies": {}
+}
