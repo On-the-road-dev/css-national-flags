@@ -11,14 +11,16 @@
   TN, TO, TR, TT, TW, TZ, UA, UG, US, UY, UZ, VC, VE, VG, VN, VU, WS, WW, YE, ZA,
   ZM, ZW, ZZ, PS;
 
+@ratio: 0.7533333333;
+
 @nat_fls_default-width: 150px;
-@nat_fls_default-height: @nat_fls_default-width * (2 / 3);
+@nat_fls_default-height: @nat_fls_default-width * @ratio;
 @nat_fls_mini-width: 30px;
-@nat_fls_mini-height: @nat_fls_mini-width * (2 / 3);
+@nat_fls_mini-height: @nat_fls_mini-width * @ratio;
 @nat_fls_small-width: 90px;
-@nat_fls_small-height: @nat_fls_small-width * (2 / 3);
+@nat_fls_small-height: @nat_fls_small-width * @ratio;
 @nat_fls_big-width: 200px;
-@nat_fls_big-height: @nat_fls_big-width * (2 / 3);
+@nat_fls_big-height: @nat_fls_big-width * @ratio;
 
 @base_path: "https://unpkg.com/@ontheroaddev/css-national-flags/public/flags/";
 @ext: ".svg";

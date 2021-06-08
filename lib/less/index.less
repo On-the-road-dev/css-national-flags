@@ -4,7 +4,8 @@
   width: @nat_fls_default-width;
   height: @nat_fls_default-height;
   @attr: "ZZ";
-  background: url("@{base_path}@{attr}@{ext}") center center;
+  background: url("@{base_path}@{attr}@{ext}") center center no-repeat;
+  background-size: cover;
   display: inline-block;
   vertical-align: middle;
   position: relative;
@@ -36,6 +37,7 @@
   .create-country-list(@i - 1);
   @country: extract(@countries, @i);
   &.--@{country} {
-    background: url("@{base_path}@{country}@{ext}") center center;
+    background: url("@{base_path}@{country}@{ext}") center center no-repeat;
+    background-size: cover;
   }
 }
