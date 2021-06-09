@@ -30,6 +30,37 @@
     opacity: 0.7;
   }
 
+  &.--heart {
+    width: @nat_fls_default-width;
+    height: @nat_fls_default-width * @ratio-heart;
+    -webkit-mask-image: url("@{mask_path}/heart.svg");
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-position: center;
+    -webkit-mask-size: @nat_fls_default-width;
+    mask-image: url("@{mask_path}/heart.svg");
+    mask-repeat: no-repeat;
+    mask-position: center;
+    mask-size: @nat_fls_default-width;
+    &.--mini {
+      width: @nat_fls_mini-width;
+      height: @nat_fls_mini-width * @ratio-heart;
+      -webkit-mask-size: @nat_fls_mini-width;
+      mask-size: @nat_fls_mini-width;
+    }
+    &.--small {
+      width: @nat_fls_small-width;
+      height: @nat_fls_small-width * @ratio-heart;
+      -webkit-mask-size: @nat_fls_small-width;
+      mask-size: @nat_fls_small-width;
+    }
+    &.--big {
+      width: @nat_fls_big-width;
+      height: @nat_fls_big-width * @ratio-heart;
+      -webkit-mask-size: @nat_fls_big-width;
+      mask-size: @nat_fls_big-width;
+    }
+  }
+
   .create-country-list();
 }
 

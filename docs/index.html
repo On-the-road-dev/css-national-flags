@@ -8,6 +8,8 @@
         </style>
     </head>
     <body>
+        <H1> CSS national flags</H1>
+        <h2> Complete list</h2>
         <table id="contrylist"></table>
         <script>            
             var countries = ["AD","AE","AF","AG","AI","AL","AM","AN","AO","AR","AT","AU","KZ","AW","AX","AZ","BA","BB","BD","BE","BF","BG","BH","BI","BJ","BM","BN","BO","BR","BS","BT","BW","BY","BZ","CA","CAF","AS","CD","CEU","CF","CG","CH","CI","CL","CM","CN","CNA","CO","COC","CR","CSA","CU","CV","CY","CZ","DE","DJ","DK","DM","DO","DZ","EC","EE","EG","ER","ES","ET","EU","FI","FJ","FK","FM","FR","GA","GB","GD","GE","GG","GH","GI","GM","GN","GQ","GR","GT","GW","GY","HK","HN","HR","HT","HU","ID","IE","IL","IM","IN","IQ","IR","IS","IT","JE","JM","JO","JP","KE","KG","KH","KM","KN","KP","KR","KW","KY","LA","LB","LC","LI","LK","LR","LS","LT","LU","LV","LY","MA","MC","MD","ME","MG","MK","ML","MM","MN","MO","MR","MS","MT","MU","MV","MW","MX","MY","MZ","NA","NE","NG","NI","NL","NO","NP","NZ","OM","PA","PE","PF","PG","PH","PK","PL","PR","PT","PW","PY","QA","RO","RS","RU","RW","SA","SB","SC","SD","SE","SG","SH","SI","SK","SL","SM","SN","SO","SR","ST","SV","SY","SZ","TC","TD","TG","TH","TJ","TL","TM","TN","TO","TR","TT","TW","TZ","UA","UG","US","UY","UZ","VC","VE","VG","VN","VU","WS","WW","YE","ZA","ZM","ZW","ZZ","PS"];
@@ -18,6 +20,7 @@
                 <th>Flag Small</th>
                 <th>Flag Big</th>
                 <th>Flag Disabled</th>
+                <th>Heart</th>
             </tr>`;
             countries.forEach(function(country) {
                 htmlGenerated+="<tr>";
@@ -27,6 +30,7 @@
                 htmlGenerated+="<td><div class='otrd-nat_flg --" + country + " --small'/></td>";
                 htmlGenerated+="<td><div class='otrd-nat_flg --" + country + " --big'/></td>";
                 htmlGenerated+="<td><div class='otrd-nat_flg --" + country + " --disabled'/></td>";
+                htmlGenerated+="<td><div class='otrd-nat_flg --" + country + " --heart'></div> <div class='otrd-nat_flg --" + country + " --heart --small'/> </td>";
                 htmlGenerated+="</tr>";
             });
             document.querySelector("#contrylist").innerHTML = htmlGenerated;
