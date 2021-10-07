@@ -5,7 +5,7 @@
   "main": "build/national-flags.css",
   "scripts": {
     "build": "rollup --config rollup.config.js",
-    "commit": "npx git-cz"
+    "commit": "cz"
   },
   "keywords": [
     "css",
@@ -20,21 +20,25 @@
     "public",
     "package-lock.json"
   ],
+  "directories": {
+    "doc": "docs"
+  },
   "author": "Riccardo canella <@thecreazy>",
   "license": "ISC",
   "devDependencies": {
+    "commitizen": "^4.2.4",
+    "cz-conventional-changelog": "^3.3.0",
     "less": "^4.1.1",
-    "rollup": "^2.51.0",
     "postcss": "^8.3.0",
+    "rollup": "^2.51.0",
     "rollup-plugin-peer-deps-external": "^2.2.4",
     "rollup-plugin-postcss": "^4.0.0",
-    "commitizen": "^4.2.4",
-    "git-cz": "^4.7.6"
+    "standard-version": "^9.3.1"
   },
   "dependencies": {},
   "config": {
     "commitizen": {
-      "path": "git-cz"
+      "path": "./node_modules/cz-conventional-changelog"
     }
   }
 }
