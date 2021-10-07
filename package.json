@@ -4,7 +4,8 @@
   "description": "Css library from national flags",
   "main": "build/national-flags.css",
   "scripts": {
-    "build": "rollup --config rollup.config.js"
+    "build": "rollup --config rollup.config.js",
+    "commit": "npx git-cz"
   },
   "keywords": [
     "css",
@@ -26,7 +27,14 @@
     "rollup": "^2.51.0",
     "postcss": "^8.3.0",
     "rollup-plugin-peer-deps-external": "^2.2.4",
-    "rollup-plugin-postcss": "^4.0.0"
+    "rollup-plugin-postcss": "^4.0.0",
+    "commitizen": "^4.2.4",
+    "git-cz": "^4.7.6"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "config": {
+    "commitizen": {
+      "path": "git-cz"
+    }
+  }
 }
