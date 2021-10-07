@@ -5,7 +5,8 @@
   "main": "build/national-flags.css",
   "scripts": {
     "build": "rollup --config rollup.config.js",
-    "commit": "cz"
+    "commit": "cz",
+    "release": "standard-version"
   },
   "keywords": [
     "css",
