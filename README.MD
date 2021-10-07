@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/On-the-road-dev/css-national-flags">
-    <img src="https://github.com/On-the-road-dev/css-national-flags/blob/master/docs/logo.png" alt="Icon" width="300"/>
+    <img src="https://github.com/On-the-road-dev/css-national-flags/blob/main/docs/logo.png?raw=true" alt="Icon" width="300"/>
   </a>
   <br>
   <br>
