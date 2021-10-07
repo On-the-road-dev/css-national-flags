@@ -4,7 +4,9 @@
   "description": "Css library from national flags",
   "main": "build/national-flags.css",
   "scripts": {
-    "build": "rollup --config rollup.config.js"
+    "build": "rollup --config rollup.config.js",
+    "commit": "cz",
+    "release": "standard-version"
   },
   "keywords": [
     "css",
@@ -19,14 +21,25 @@
     "public",
     "package-lock.json"
   ],
+  "directories": {
+    "doc": "docs"
+  },
   "author": "Riccardo canella <@thecreazy>",
   "license": "ISC",
   "devDependencies": {
+    "commitizen": "^4.2.4",
+    "cz-conventional-changelog": "^3.3.0",
     "less": "^4.1.1",
-    "rollup": "^2.51.0",
     "postcss": "^8.3.0",
+    "rollup": "^2.51.0",
     "rollup-plugin-peer-deps-external": "^2.2.4",
-    "rollup-plugin-postcss": "^4.0.0"
+    "rollup-plugin-postcss": "^4.0.0",
+    "standard-version": "^9.3.1"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
 }
